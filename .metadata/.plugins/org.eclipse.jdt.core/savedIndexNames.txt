@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\Workspace\Game Development\MoonWasAlone\.metadata\.plugins\org.eclipse.jdt.core
+579340631.index
+1909429756.index
